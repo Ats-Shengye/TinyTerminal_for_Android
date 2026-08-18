@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TinyTerminal</string>
+    <string name="server_url_hint">Server URL (e.g., http://100.64.0.1:8080)</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_server_url">Enter TinyTerminal Server URL</string>
+    <string name="invalid_url">Invalid URL. Use http(s)://100.x.x.x:port format (Tailscale IP only)</string>
+</resources>

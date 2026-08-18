@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TinyTerminal theme colors based on #0c0c14 -->
+    <color name="background_primary">#0c0c14</color>
+    <color name="background_secondary">#1a1a24</color>
+    <color name="text_primary">#e0e0e0</color>
+    <color name="text_secondary">#a0a0a0</color>
+    <color name="accent">#4a9eff</color>
+</resources>

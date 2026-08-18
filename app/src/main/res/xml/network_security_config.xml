@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- TinyTerminal is used exclusively within Tailscale VPN network.
+         Cleartext HTTP is required because the server binds to a Tailscale IP
+         without TLS. Security is provided by Tailscale's WireGuard encryption. -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
